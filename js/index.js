@@ -4,7 +4,7 @@ const botonNo = document.querySelector('#buttonNo');
 const somosNovios = () => {
   alert('💞Estare a tu lado toda la vida💞');
   alert('🥰Feliz dia del amor Yulisa🥰');
-  alert('😘te amo😘')
+  alert('😘te amo mi vida😘')
   location.href = 'https://youtu.be/cEMfq68aTao?t=20';
 }
 const ebitarKCRombaMyBobo = () => {
